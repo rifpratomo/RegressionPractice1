@@ -7,7 +7,7 @@ Pada project ini akan melakukan 2 Prediksi linear regresi yaitu:
 2. Prediksi Nominal transaksi konsumen Supermarket Terhadap Jumlah Anak (`Kidhome`, `Teenhome`, `Monetary`)
 
 Dimana didapatkan 
-  1.  Persamaan model prediksi Frekuensi Kunjungan Ke Supermarket Terhadap Jumlah Anak (`Kidhome`, `Teenhome`, `Frequency`)
+  1.  Persamaan model prediksi Frekuensi Kunjungan Ke Supermarket Terhadap Jumlah Anak (`Kidhome`, `Frequency`)
      $$Y = 15.9759 + (- 7.6754x)$$
   2.  Persamaan model prediksi Nominal transaksi konsumen Supermarket Terhadap Jumlah Anak (`Kidhome`, `Teenhome`, `Frequency`)
     $$Y = 985.1794 + (-637.8138x_1) + (-182.0574x_2)$$
